@@ -1,0 +1,22 @@
+body {
+  text-align : center;
+}
+.main img {
+  width : 70%;
+  vertical-align: middle;
+}
+.navi {
+  text-align: center;
+}
+button {
+  margin: 10px auto;
+  font-size: 24px;
+  font-family: 'Stick', sans-serif;
+}
+.title {
+  font-size: xx-large;
+  font-family: 'Yomogi', cursive;
+}
+.thumbnails .selected {
+  opacity: 1.0;
+}
